@@ -1,1 +1,2 @@
 this is new file
+the new file is added by some devloper
